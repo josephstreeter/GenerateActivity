@@ -2,7 +2,8 @@ clear host
 #
 # Script will prevent screen lock and sleep.
 # Works by pressing "F15" every 60 minutes.
-#
+# 
+# Copied from https://cloudrun.co.uk/powershell/how-to-keep-your-screen-alive-or-pc-from-going-to-sleep-during-presentations/
 
 $opt = (Get-Host).PrivateData
 $opt.WarningBackgroundColor = "DarkCyan"
