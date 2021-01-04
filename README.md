@@ -18,7 +18,7 @@ The folder that is extracted from the archive will have three files in it
 * KeepAlive.ps1 - A PowerShell script that performs the main functions
 * README.md - The README document for this project
 
-## Execute .bat script
+## Execution
 * Open the GenerateActivity-main folder
 * Double-click the KeepAlive.bat script 
 * This will open a cmd prompt and execute the PowerShell script
