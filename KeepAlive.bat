@@ -1,1 +1,1 @@
-powershell.exe -ExecutionPolicy Bypass -File .\keep-alive.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\KeepAlive.ps1
