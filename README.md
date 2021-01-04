@@ -1,5 +1,6 @@
 # GenerateActivity
-Generate activity on a Windows computer to keep the screen saver from activating. 
+PowerShell code that will generate activity on a Windows computer to keep the screen saver from activating. Basically the 
+script simulates pressing the F15 key periodically to keep the computer from appearing inactive. 
 
 ## Setup
 * Download the scripts (or clone the repository using git)
