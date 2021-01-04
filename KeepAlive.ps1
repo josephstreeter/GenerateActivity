@@ -11,8 +11,8 @@ $opt.WarningForegroundColor = "white"
 
 write-warning "Your PC will not go to sleep whilst this window is open..."
 Do {
-[void][System.Reflection.Assembly]::LoadWithPartialName(‘System.Windows.Forms’)
-[System.Windows.Forms.SendKeys]::SendWait(“{F15}”)
+[void][System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms')
+[System.Windows.Forms.SendKeys]::SendWait("{F15}")
 
 Start-Sleep -Seconds 30
 
